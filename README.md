@@ -40,19 +40,6 @@ Just run the script and type in something you want to have converted. The result
 ```
 Where do you want to save the string? If the file already exists, it will be overwritten. [generated.txt] 
 String you want to convert: [QRV] amateur radio
-A
-M
-A
-T
-E
-U
-R
-
-R
-A
-D
-I
-O
 Content of generated.txt:
 38,2,0,2,38,6,0,6,38,6,0,2,38,6,0,6,38,2,0,2,38,6,0,6,38,6,0,6,38,2,0,6,38,2,0,2,38,2,0,2,38,6,0,6,38,2,0,2,38,6,0,2,38,2,0,6,38,2,0,2,38,6,0,2,38,2,0,6,38,2,0,2,38,6,0,6,38,6,0,2,38,2,0,2,38,2,0,6,38,2,0,2,38,2,0,6,38,6,0,2,38,6,0,2,38,6,0,6
 ```
