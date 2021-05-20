@@ -44,4 +44,4 @@ Content of generated.txt:
 38,2,0,2,38,6,0,6,38,6,0,2,38,6,0,6,38,2,0,2,38,6,0,6,38,6,0,6,38,2,0,6,38,2,0,2,38,2,0,2,38,6,0,6,38,2,0,2,38,6,0,2,38,2,0,6,38,2,0,2,38,6,0,2,38,2,0,6,38,2,0,2,38,6,0,6,38,6,0,2,38,2,0,2,38,2,0,6,38,2,0,2,38,2,0,6,38,6,0,2,38,6,0,2,38,6,0,6
 ```
 
-NOTE: This script only works with the letters A trough Z and 0 trough 9.
+NOTE: This script only works with the letters A trough Z and digits 0 trough 9.
